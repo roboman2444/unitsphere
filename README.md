@@ -1,4 +1,4 @@
-unitsphere
+sphere.c
 ==========
 
 Simple "random points on a unit sphere" generator
