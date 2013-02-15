@@ -7,8 +7,9 @@ Released under WTFPL
 So basically I (roboman2444) needed a bunch of points on a unit sphere for some glsl stuff.
 I couldn't find any generators online, so i quickly slapped a tiny one together.
 I later edited it and made it more user friendly.
+It can output in vec3 format, and a readable, gnuplotable tab and newline seperated format.
 
-Usage: ./sphere SAMPLES where SAMPLES is an integer greater than 0
+Usage: ./sphere SAMPLES where SAMPLES is an integer. If SAMPLES is negative, then output will be tab and newline seperated. If SAMPLES is positive, then output will be in vec3(x,y,z), format.
 
 COMPILING
 =========
