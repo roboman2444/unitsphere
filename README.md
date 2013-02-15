@@ -22,3 +22,9 @@ Copyright © 2013 Alex Gaines <roboman2444@gmail.com>
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
 as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
+
+EXAMPLE
+=========
+http://i.imgur.com/Q4tIGrh.gif
+Plotted using gnuplot and 50 Samples
+Your browser might have a little trouble displaying it, but something like gpicview or imagemagick will work fine.
